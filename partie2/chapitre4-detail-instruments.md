@@ -4,6 +4,28 @@
 
 ![Tableau de bord R22 - Vue d'ensemble](assets/tableau-bord-ascii.md)
 
+## Images photographiques du cockpit R22
+
+### Cockpit complet du R22
+![Cockpit complet du Robinson R22](assets/r22.jpeg)
+*Vue générale du cockpit biplace côte à côte du Robinson R22*
+
+### Instruments de vol annotés
+![Instruments de vol du R22 annotés](assets/r22-instruments-de-vol-annoter.jpeg)
+*Instruments principaux avec annotations détaillées - version standard*
+
+### Vue rapprochée des instruments
+![Vue rapprochée des instruments de vol](assets/r22-instruments-de-vol.jpeg)
+*Détail rapproché des cadrans principaux du tableau de bord*
+
+### Version Beta du R22
+![Robinson R22 Beta](assets/r22beta.jpeg)
+*Modèle Beta avec équipements modernisés et avionique améliorée*
+
+### Cockpit R22 Beta annoté
+![Cockpit R22 Beta avec annotations](assets/r22-beta-annoter.jpeg)
+*Vue détaillée du cockpit R22 Beta avec tous les instruments identifiés*
+
 Le tableau de bord du Robinson R22 intègre tous les instruments essentiels au pilotage sécurisé. Chaque cadran joue un rôle spécifique dans le contrôle de l'attitude, de la trajectoire et de la santé mécanique de l'appareil.
 
 ## 1. Indicateur d'assiette (Horizon artificiel)
@@ -155,6 +177,9 @@ Le tableau de bord du Robinson R22 intègre tous les instruments essentiels au p
 - Trop lent : Vortex ring state
 - Trop rapide : Charges structurales excessives
 
+![Détail de l'indicateur de vitesse](assets/r22-instruments-de-vol-annoter.jpeg)
+*Exemple visuel des marques colorées sur l'indicateur de vitesse*
+
 ## 5. Compas magnétique / Direction gyroscopique
 
 ```
@@ -198,6 +223,9 @@ Le tableau de bord du Robinson R22 intègre tous les instruments essentiels au p
 ## ⚙️ Section intermédiaire – Instruments moteur
 
 Ces cadrans surveillent la santé du moteur Lycoming et du rotor :
+
+![Instruments moteur du R22](assets/r22-instruments-de-vol.jpeg)
+*Vue d'ensemble des instruments moteur et de surveillance mécanique*
 
 ## 6. Tachymètre double (RPM moteur / RPM rotor)
 
@@ -426,6 +454,9 @@ Ces cadrans surveillent la santé du moteur Lycoming et du rotor :
 ## 💡 Section inférieure – Commandes et voyants
 
 C'est ici qu'on trouve les interrupteurs et alertes :
+
+![Cockpit complet avec commandes](assets/r22-beta-annoter.jpeg)
+*Vue du cockpit complet montrant les commandes électriques et les voyants*
 
 ## 13. Voyants lumineux (Annunciator Panel)
 

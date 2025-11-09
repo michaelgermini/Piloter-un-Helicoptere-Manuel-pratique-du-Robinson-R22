@@ -58,13 +58,35 @@ Chaque chapitre dispose d'une synthèse visuelle consolidant :
 - Check-lists de révision
 - Points d'évaluation
 
-## 🖼️ Schémas du tableau de bord R22
+## 🖼️ Schémas et images du tableau de bord R22
 
 ### Vue d'ensemble du cockpit
 ```
 [assets/tableau-bord-ascii.md](assets/tableau-bord-ascii.md)
 ```
 ![Tableau de bord R22](assets/tableau-bord-ascii.md)
+
+### Images photographiques du R22
+
+#### Cockpit complet du R22
+![Cockpit complet du Robinson R22](assets/r22.jpeg)
+*Vue générale du cockpit biplace côte à côte*
+
+#### Instruments de vol annotés
+![Instruments de vol du R22 annotés](assets/r22-instruments-de-vol-annoter.jpeg)
+*Instruments principaux avec annotations détaillées*
+
+#### Vue rapprochée des instruments
+![Vue rapprochée des instruments de vol](assets/r22-instruments-de-vol.jpeg)
+*Détail des cadrans principaux*
+
+#### Version Beta du R22
+![Robinson R22 Beta](assets/r22beta.jpeg)
+*Modèle Beta avec équipements modernisés*
+
+#### Cockpit R22 Beta annoté
+![Cockpit R22 Beta avec annotations](assets/r22-beta-annoter.jpeg)
+*Vue détaillée du cockpit avec tous les instruments identifiés*
 
 ### Schéma des commandes de vol
 ```
@@ -154,7 +176,8 @@ Chaque chapitre dispose d'une synthèse visuelle consolidant :
 - **18 chapitres** principaux (incluant chapitre 4 bis détaillé)
 - **4 annexes** complètes
 - **17 synthèses** visuelles
-- **3 schémas** détaillés du tableau de bord
+- **3 schémas ASCII** détaillés du tableau de bord
+- **5 images photographiques** du cockpit R22
 - **Plus de 160 pages** de contenu
 - **150+ termes** techniques définis
 - **50+ procédures** détaillées
