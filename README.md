@@ -57,6 +57,51 @@ Chaque chapitre dispose d'une synthèse visuelle consolidant :
 - Check-lists de révision
 - Points d'évaluation
 
+## 🖼️ Schémas du tableau de bord R22
+
+### Vue d'ensemble du cockpit
+```
+[assets/tableau-bord-ascii.md](assets/tableau-bord-ascii.md)
+```
+![Tableau de bord R22](assets/tableau-bord-ascii.md)
+
+### Schéma des commandes de vol
+```
+[assets/commandes-schema.md](assets/commandes-schema.md)
+```
+- **Collectif** : Gestion portance/puissance (gauche)
+- **Cyclique** : Contrôle attitude (centre)
+- **Pédales** : Compensation couple (plancher)
+
+### Vue d'ensemble de l'hélicoptère
+```
+[assets/helicoptere-schema.md](assets/helicoptere-schema.md)
+```
+- Dimensions et caractéristiques principales
+- Systèmes mécaniques
+- Forces en vol stationnaire
+
+### Instruments essentiels (T-Attitude-Heading)
+```
+┌─────────────┬─────────────┬─────────────┬─────────────┐
+│ ALTITUDE    │ VITESSE AIR │ ATTITUDE    │ DIRECTION   │
+│ 0-30'000 ft │ 0-200 kt    │ ±90°/±30°  │ 360°        │
+│ QNH réglage │ Blanc/Jaune │ Horizon art │ Compass mag │
+│ pieds/mètres │ Rouge >140kt│ Cageable   │ Bouton      │
+└─────────────┴─────────────┴─────────────┴─────────────┘
+```
+
+### Instruments moteur et performances
+```
+┌─────────────┬─────────────┬─────────────┬─────────────┐
+│ RPM ROTOR   │ MANIFOLD PR │ TEMP HUILE  │ PRESS HUILE │
+│ 0-600 (×100)│ 10-30 inHg  │ 0-120°C     │ 0-7 bar     │
+│ Vert 450-510│ 28"=100%   │ Vert 60-100 │ Vert 2.8-4.1│
+│ Rouge <430  │             │ Rouge >110  │ Rouge <2.0  │
+│ >520 tr/min │             │             │ >5.5        │
+└─────────────┴─────────────┴─────────────┴─────────────┘
+```
+
 ## 🛠️ Fonctionnalités pédagogiques
 
 ### Approche structurée
