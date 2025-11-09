@@ -16,8 +16,9 @@ Ce manuel complet constitue une référence exhaustive pour l'apprentissage et l
 - **Chapitre 2** : Présentation du Robinson R22 - Histoire, caractéristiques techniques, limites
 - **Chapitre 3** : Principes de vol d'un hélicoptère - Forces, rotors, dissymétrie, effets
 
-### Partie 2 : Cockpit et commandes (2 chapitres)
+### Partie 2 : Cockpit et commandes (3 chapitres)
 - **Chapitre 4** : Le poste de pilotage du R22 - Instruments, commandes, systèmes
+- **Chapitre 4 bis** : Détail des instruments du tableau de bord R22 - Description complète de chaque cadran
 - **Chapitre 5** : Les systèmes du R22 - Transmission, carburant, lubrification, alarmes
 
 ### Partie 3 : Apprendre à piloter (4 chapitres)
@@ -150,13 +151,14 @@ Chaque chapitre dispose d'une synthèse visuelle consolidant :
 
 ## 📊 Statistiques du projet
 
-- **17 chapitres** principaux
+- **18 chapitres** principaux (incluant chapitre 4 bis détaillé)
 - **4 annexes** complètes
 - **17 synthèses** visuelles
-- **Plus de 150 pages** de contenu
+- **3 schémas** détaillés du tableau de bord
+- **Plus de 160 pages** de contenu
 - **150+ termes** techniques définis
 - **50+ procédures** détaillées
-- **100+ schémas** et tableaux
+- **100+ schémas** et tableaux ASCII
 
 ## 🙏 Remerciements
 
