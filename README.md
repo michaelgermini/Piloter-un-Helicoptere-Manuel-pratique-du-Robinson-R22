@@ -1,0 +1,135 @@
+# ✈️ Piloter un hélicoptère – Manuel pratique du Robinson R22
+
+## 📖 Description du projet
+
+Ce manuel complet constitue une référence exhaustive pour l'apprentissage et la maîtrise du pilotage d'hélicoptère Robinson R22. Conçu selon une approche pédagogique structurée, il combine théorie rigoureuse, procédures opérationnelles et dimension philosophique.
+
+**Format** : Documentation technique complète en Markdown
+**Langue** : Français
+**Public cible** : Élèves pilotes, instructeurs, pilotes privés
+**Niveau** : Débutant à confirmé
+
+## 📚 Structure du manuel
+
+### Partie 1 : Découverte et bases du vol (3 chapitres)
+- **Chapitre 1** : L'esprit du pilotage - Responsabilités, espaces aériens, types d'hélicoptères
+- **Chapitre 2** : Présentation du Robinson R22 - Histoire, caractéristiques techniques, limites
+- **Chapitre 3** : Principes de vol d'un hélicoptère - Forces, rotors, dissymétrie, effets
+
+### Partie 2 : Cockpit et commandes (2 chapitres)
+- **Chapitre 4** : Le poste de pilotage du R22 - Instruments, commandes, systèmes
+- **Chapitre 5** : Les systèmes du R22 - Transmission, carburant, lubrification, alarmes
+
+### Partie 3 : Apprendre à piloter (4 chapitres)
+- **Chapitre 6** : Préparation avant vol - Inspection, check-lists, météo
+- **Chapitre 7** : Premières leçons - Démarrage, stationnaire, décollage
+- **Chapitre 8** : Vol de croisière - Maintien paramètres, virages, navigation
+- **Chapitre 9** : Approche et atterrissage - Plans, arrondis, atterrissages
+
+### Partie 4 : Urgences et sécurité (2 chapitres)
+- **Chapitre 10** : Gestion des pannes - Autorotation, LTE, vortex ring state
+- **Chapitre 11** : Sécurité du vol - Facteurs humains, stress, décision pilote
+
+### Partie 5 : Entraînement au sol et simulateur (2 chapitres)
+- **Chapitre 12** : Le simulateur comme outil - Configuration, exercices progressifs
+- **Chapitre 13** : Exercices pratiques - Stationnaire, translation, manoeuvres
+
+### Partie 6 : Approfondissements techniques (2 chapitres)
+- **Chapitre 14** : Aérodynamique avancée - Dissymétrie, précession, calculs
+- **Chapitre 15** : Maintenance et inspection pilote - Routines, documents
+
+### Partie 7 : Philosophie du vol (2 chapitres)
+- **Chapitre 16** : L'esprit du pilote - Concentration, discipline, relation machine
+- **Chapitre 17** : Témoignages et réflexions - Paroles pilotes, leçons apprises
+
+## 📎 Annexes complètes
+
+- **Annexe A** : Glossaire des termes aéronautiques (150+ termes)
+- **Annexe B** : Règles de l'air suisses et internationales
+- **Annexe C** : Check-lists imprimables (pré-vol, démarrage, urgence)
+- **Annexe D** : Fiches de progression d'instructeur (niveaux 1-4)
+
+## 🎨 Synthèses visuelles
+
+Chaque chapitre dispose d'une synthèse visuelle consolidant :
+- Concepts clés en schémas ASCII
+- Formules importantes
+- Check-lists de révision
+- Points d'évaluation
+
+## 🛠️ Fonctionnalités pédagogiques
+
+### Approche structurée
+- **Comprendre** : Théorie et principes
+- **Appliquer** : Procédures pratiques
+- **Maîtriser** : Subtilités et pièges
+
+### Outils intégrés
+- Encadrés spéciaux : ⚠️ Attention, 💡 Conseil, ✓ Bonnes pratiques
+- Exemples mathématiques concrets
+- Tableaux de classification
+- Évaluations par chapitre
+
+### Sécurité prioritaire
+- Mise en avant des facteurs humains
+- Procédures d'urgence détaillées
+- Gestion du stress et des erreurs
+- Culture de sécurité
+
+## 📋 Utilisation recommandée
+
+### Pour élèves pilotes
+1. Lecture complète chapitre par chapitre
+2. Application pratique avec instructeur
+3. Révision via synthèses visuelles
+4. Validation via évaluations
+
+### Pour instructeurs
+- Outil pédagogique structuré
+- Fiches de progression détaillées
+- Référence technique complète
+- Support formation continue
+
+### Pour pilotes privés
+- Manuel de référence opérationnel
+- Révision connaissances
+- Préparation recyclage
+- Dépannage technique
+
+## 🔧 Technologies et formats
+
+**Format natif** : Markdown (.md) - Compatible GitHub, éditeurs texte
+**Visualisation** : Lecteurs Markdown (Typora, Mark Text, VS Code)
+**Impression** : Conversion PDF possible
+**Collaboration** : Versionnable Git
+
+## 📊 Statistiques du projet
+
+- **17 chapitres** principaux
+- **4 annexes** complètes
+- **17 synthèses** visuelles
+- **Plus de 150 pages** de contenu
+- **150+ termes** techniques définis
+- **50+ procédures** détaillées
+- **100+ schémas** et tableaux
+
+## 🙏 Remerciements
+
+Ce manuel s'inspire de :
+- **Manuel de vol Robinson R22** officiel
+- **Publications FAA/EASA** sur sécurité
+- **Recherches NTSB/BSU** sur accidents
+- **Témoignages pilotes** expérimentés
+- **Standards formation** professionnels
+
+## 📞 Support et contribution
+
+**Usage libre** : Ce manuel est destiné à la communauté aéronautique
+**Améliorations** : Suggestions bienvenues
+**Corrections** : Signalement d'erreurs apprécié
+
+---
+
+*"Le ciel n'a pas de limites, mais le pilote en a. Le vrai art est de danser avec ces limites sans jamais les franchir."*
+
+**Que votre vol soit sûr, vos atterrissages doux, et votre passion éternelle.** ✈️
