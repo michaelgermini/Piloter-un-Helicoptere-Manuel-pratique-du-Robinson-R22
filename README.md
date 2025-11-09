@@ -177,7 +177,7 @@ Chaque chapitre dispose d'une synthèse visuelle consolidant :
 - **4 annexes** complètes
 - **17 synthèses** visuelles
 - **3 schémas ASCII** détaillés du tableau de bord
-- **5 images photographiques** du cockpit R22
+- **7 images photographiques** du R22 (cockpit + vol)
 - **Plus de 160 pages** de contenu
 - **150+ termes** techniques définis
 - **50+ procédures** détaillées
@@ -191,6 +191,16 @@ Ce manuel s'inspire de :
 - **Recherches NTSB/BSU** sur accidents
 - **Témoignages pilotes** expérimentés
 - **Standards formation** professionnels
+
+## ✈️ Images du R22 en vol
+
+### Robinson R22 en vol
+![Robinson R22 en vol](assets/r22-vol.jpeg)
+*Vue aérienne du Robinson R22 en vol de croisière*
+
+### R22 en vol - Vue 2
+![R22 en vol - Vue 2](assets/r22-vol-2.jpeg)
+*Deuxième vue du Robinson R22 en conditions de vol réelles*
 
 ## 📞 Support et contribution
 
